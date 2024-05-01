@@ -561,7 +561,7 @@ input[type="search"]{
 		flex-direction: column;
 		justify-content: space-between;
 		align-items: center;
-		height: 100vh;
+		height: 70vh;
 		display: none;
 		margin: 0 auto;
 		width: 90%;
